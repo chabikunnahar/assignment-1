@@ -1,0 +1,126 @@
+
+.azeret-mono-normal{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+    margin: 0;
+}
+/*header section styles id start here */
+.awlad{
+    /* border: 1px solid red ; */
+    margin: 38px 165px 35px 150px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.awlad h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 28px;
+font-weight: 800;
+}
+.nav-btn{
+border: 1px solid rgb(13, 19, 33);
+border-radius: 8px;
+padding:18px 24px 18px 24px;
+width: 330px;
+height: 60px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 500;
+margin-top: 38px;
+margin-bottom: 35px;
+}
+.future-develper{
+    /* border: 1px solid red; */
+    width: 1460px;
+    height: 652px;
+    background-image: url(../assets/Hero-bg.png);
+    background-repeat:no-repeat;
+    background-size:cover;  
+}
+.future-development-contant{
+    border: 1px solid red;
+    margin: 26px 221px 44px 221px;
+    width: 998px;
+    height: 582px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+
+}
+.future-development-description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom:32px;
+    width: 852px;
+    height: 52px;
+}
+.future-development-title{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 40px;
+font-weight:800;
+width: 998px;
+height: 136px;
+margin-bottom:24px ;
+text-align: center;
+}
+.future-development-btn{
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+justify-content: center;
+align-items: center;
+padding: 21px 24px 21px 24px;
+
+background: rgb(13, 19, 33);
+}
+/*header section styles is end here */
+/* main section is start here   */
+section{
+    border:1px solid red;
+}
+.web-development-contant{
+    border: 3px solid blue;
+}
+
+.the-world{
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    width: 946px;
+height: 336px;
+padding: 50px;
+border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+
+}
+.the-world-title{
+    width: 390px;
+height: 72px;
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+margin-bottom: 16px;
+}
+.the-world-description{
+    width: 468px;
+height: 52px;
+margin-bottom:70px
+}
+.section-btn{
+    width: 171px;
+height: 47px;
+padding: 12px 20px 12px 20px;
+}
+
